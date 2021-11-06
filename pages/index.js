@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-        Hinata listens to "I want to be tall" by Jenna Marbles everyday in hopes that it will help him grow taller.
+        Hinata listens to I WANT TO BE TALL by Jenna Marbles everyday in hopes that it will help him grow taller.
         </h1>
 
         <div className={styles.grid}>
